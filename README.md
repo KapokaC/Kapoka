@@ -10,8 +10,8 @@
 * 🌱 I’m currently preparing the Java SE 1Z0-811 certification.
 * 💻 I'm working on a full stack project using React, NodeJS and MongoDB.
 
-***
-# Testing
+🧪 Testing
+
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
