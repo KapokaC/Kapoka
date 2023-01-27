@@ -12,8 +12,6 @@
 
 ## 💼 Technical Skills
 
-#
-
 🧪 Testing
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
