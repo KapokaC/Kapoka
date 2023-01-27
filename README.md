@@ -1,4 +1,5 @@
-![My banner](assets/charity.jpg)
+![My banner](assets/header-image.png)
+
 # 👋 Hi. Welcome to my GitHub!!!
 
 ***
