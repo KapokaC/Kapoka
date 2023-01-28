@@ -23,10 +23,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
- ![Agile-badge](assets/agile-explorer.png)
- 
- 
- 
+![My banner](assets/oracle-java.png)
  <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="230" height="230">
 
 ## 📈 GitHub Stats 
