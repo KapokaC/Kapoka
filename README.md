@@ -23,7 +23,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://github.com/KapokaC/KapokaC/blob/main/assets/oracle-java.png" width="230" height="230"><img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="200" height="190">
+<p align="center">
+  <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/oracle-java.png" width="230" height="230"><img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="200" height="200">
+</p>
 
 ## 📈 GitHub Stats 
 
