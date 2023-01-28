@@ -29,9 +29,9 @@
 
 ## 📈 GitHub Stats 
 
-[![Charity’s github stats](https://github-readme-stats.vercel.app/api?username=KapokaC)](https://github.com/KapokaC)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/KapokaC)
+<p align="center">
+[![Charity’s github stats](https://github-readme-stats.vercel.app/api?username=KapokaC)](https://github.com/KapokaC)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/KapokaC)
+  </p>
 
 
  
