@@ -27,7 +27,7 @@
  
  
  
- <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="250" height="250">
+ <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="230" height="230">
 
 ## 📈 GitHub Stats 
 
