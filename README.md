@@ -2,13 +2,6 @@
 
 # 👋 Hi. Welcome to my GitHub!!!
 
-### 🤝 Connect with me:
-
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-
-
 * 👩🏻‍💻 I recently completed the Digital Futures 12 week Software Engineering academy.
 * 📚 I started my journey in 2017, with a Degree in Software Engineering at the University of Salford.
 * 👀 I'm interested in learning further technologies.
