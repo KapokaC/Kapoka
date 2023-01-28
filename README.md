@@ -24,7 +24,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/oracle-java.png" width="230" height="230">
-<img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="230" height="230">
+<img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="200" height="200">
 
 ## 📈 GitHub Stats 
 
