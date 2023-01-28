@@ -2,6 +2,11 @@
 
 # 👋 Hi. Welcome to my GitHub!!!
 
+### 🤝 Connect with me:
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 
 * 👩🏻‍💻 I recently completed the Digital Futures 12 week Software Engineering academy.
@@ -25,10 +30,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+## 📈 GitHub Stats 
+
 [![Charity’s github stats](https://github-readme-stats.vercel.app/api?username=KapokaC)](https://github.com/KapokaC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/KapokaC)
 
-Languages and Tools:
-aws css3 express git heroku html5 jasmine java javascript jenkins jest mocha mongodb nodejs react bootstrap
+
  
