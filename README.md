@@ -28,4 +28,7 @@
 [![Charity’s github stats](https://github-readme-stats.vercel.app/api?username=KapokaC)](https://github.com/KapokaC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/KapokaC)
+
+Languages and Tools:
+aws css3 express git heroku html5 jasmine java javascript jenkins jest mocha mongodb nodejs react bootstrap
  
