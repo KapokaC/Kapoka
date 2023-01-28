@@ -24,6 +24,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
  ![Agile-badge](assets/agile-explorer.png)
+ 
+ 
+ 
+ <img src="https://github.com/KapokaC/KapokaC/blob/main/assets/agile-explorer.png" width="250" height="250">
 
 ## 📈 GitHub Stats 
 
